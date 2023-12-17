@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: opx;    
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.box-list{
+    flex-direction: column;
+    width: 900px;
+    padding: 10px;
+    height: auto;
+    border: solid 1px black;
+    background-color: rgb(201, 198, 198);
+}
+
+.boxer-input{
+    padding: 5px;
+}
+
+.ipt-box{
+    width: 400px;
+    height: 22px;
+}
+
+.btn-add{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    width: 150px;
+    border-radius: 8px;
+    background-color: rgb(47, 175, 47);
+    margin-left: 10px;
+}
+
+.content-result{
+    display: flex;
+}
+
+.boxer-result{
+    width: 200px;
+    margin-top: auto;
+}
+
+.boxer-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.text-list{
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.text-total{
+    font-weight: bold;
+}
+
+.txt-btn{
+    font-weight: bold;
+    color: red;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.text-center{
+    text-align: center;
+    font-weight: bold;
+}
+
+.text-center-tarea{
+    text-align: start;
+    font-weight: bold;
+}
+
+.border-tbt{
+    border: solid 1px black;
+    padding: 5px;
+}
+.text-center1{
+    width: 400px;
+    padding: 5px;
+}
+
+.text-id{
+    text-align: center;
+}
+
+.listcheck{
+    width: 20px;
+    height: 30px;
+}
+.tbtcls{
+    margin-top: 10px;
+    width: 100%;
+}
+h4{
+    margin-top: 15px;
+}
